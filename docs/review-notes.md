@@ -2,15 +2,15 @@
 
 ## Project
 
-Terminal Instagram Download
+Terminal Instagram Downloader
 
 ---
 
 # Review Overview | 测试概览
 
-This document records the testing process used to validate the Instagram Download Tool v1.0.
+This document records the testing process used to validate the Instagram Downloader Tool v1.0.
 
-本文记录 Instagram Download Tool v1.0 的测试过程与结果。
+本文记录 Instagram Downloader Tool v1.0 的测试过程与结果。
 
 Testing Goals:
 
