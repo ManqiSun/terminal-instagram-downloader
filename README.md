@@ -1,4 +1,4 @@
-# Terminal Instagram Download
+# Terminal Instagram Downloader
 
 > 一个使用 Python 构建的 Instagram 命令行下载工具
 > A command-line Instagram downloader built with Python.
@@ -7,7 +7,7 @@
 
 ## 项目简介 | Overview
 
-本项目用于下载 Instagram 视频和图片内容。
+本项目用于下载 Instagram 视频和图片内容。er
 
 支持：
 
