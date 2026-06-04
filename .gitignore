@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Downloaded Instagram Content
+downloads/photo_*/
+downloads/video_*/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+
+# Environment
+.env
