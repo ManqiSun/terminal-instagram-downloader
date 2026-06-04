@@ -2,7 +2,7 @@
 
 ## Project
 
-Terminal Instagram Download
+Terminal Instagram Downloader
 
 ---
 
